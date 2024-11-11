@@ -22,12 +22,12 @@ import { getStorage } from 'firebase/storage';
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA0CNk5rY6wzNimSV6IECBPry1ybxl1_oY",
+  apiKey: "0CNk5rY6wzNimSV6IECBPry1ybxl1_oY",
   authDomain: "pdf-co-viewer-rohan.firebaseapp.com",
   projectId: "pdf-co-viewer-rohan",
   storageBucket: "pdf-co-viewer-rohan.firebasestorage.app",
-  messagingSenderId: "684200807696",
-  appId: "1:684200807696:web:b27f6cfa3e2464f2676995",
+  messagingSenderId: "200807696",
+  appId: "1:6800807696:web:b27f6cfa3e2464f2676995",
 };
 
 // Initialize Firebase app
